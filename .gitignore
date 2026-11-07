@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec
+
+# User local configs & run data (keep out of version control)
+release/tsc_installed_mods.json
+release/tsc_installer_config.json
+tsc_installed_mods.json
+tsc_installer_config.json
+
+# Environment & IDE
+.vscode/
+.idea/
+venv/
+.env
